@@ -1,0 +1,5 @@
+chmod +x build.sh
+
+./build.sh
+
+./build/game_finder steam_games.csv
